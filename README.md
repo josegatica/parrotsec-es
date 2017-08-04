@@ -1,5 +1,5 @@
-# parrotsec.org website
+# Parrot Security OS (http://www.parrotsec-es.org)
 
-This repository contains the source code of the new version of our website.
-Feel free to make your contribution
+Este repositorio contiene el código fuente de nuestro sitio web.
+Siéntete libre de hacer tu contribución.
 # parrotsec-es
