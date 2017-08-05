@@ -174,7 +174,7 @@
   <section id="parrot-conferences">
     <div class="section-background"></div>
     <article>
-      <h2 class="strong-title wow slideInDown" lang="en">Meet us in a Parrot event.</h2>
+      <h2 class="strong-title wow slideInDown" lang="en">Conócenos en algún evento.</h2>
       <a href="https://blog.parrotsec.org/category/events/" target="_blank" class="btn btn-default wow zoomIn"><span lang="en">Ver eventos globales</span></a>
     </article>
   </section>
