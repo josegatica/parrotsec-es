@@ -11,7 +11,7 @@
             <a href="https://www.parrotsec.org/download.fx" <?php if($page=="download"){?>class="mdl-layout__tab is-active"<?php } else { ?>class="mdl-layout__tab"<?php } ?>>Descargas</a>
             <a href="https://blog.parrotsec.org/" class="mdl-layout__tab">Noticias</a>
             <a href="https://docs.parrotsec.org/" class="mdl-layout__tab">Documentación</a>
-            <a href="https://docs.parrotsec.org/doku.php/community" class="mdl-layout__tab">Comunidad</a>
+            <a href="https://community.parrotsec.org/viewforum.php?id=25" class="mdl-layout__tab">Comunidad</a>
             <a href="https://docs.parrotsec.org/FAQ" class="mdl-layout__tab">FAQ</a>
         </div>
     </header>
