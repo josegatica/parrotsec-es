@@ -83,7 +83,7 @@
             <div class="distributions-icon">
               <img src="img/logo-black.png" class="wow bounceInDown"  data-wow-delay=".7s" />
             </div>
-            <h1 class="wow fadeIn" data-wow-delay=".5s">Seguridad</h1>
+            <h1 class="wow fadeIn" data-wow-delay=".5s">Security</h1>
             <h4 class="wow fadeIn" data-wow-delay=".6s">Un entorno completo que proporciona variadas herramientas de seguridad y un completo entorno para anonimato y desarrollo de software.</h4>
             <a href="https://www.parrotsec-es.org/features.fx" class="moreinfo btn btn-default">Más información</a>
             <a href="https://www.parrotsec.org/download.fx#security" class="moreinfo btn btn-primary">
@@ -96,7 +96,7 @@
             <div class="distributions-icon">
               <img src="img/logo-white.png" class="distributions-icon wow bounceInDown"  data-wow-delay=".7s" />
             </div>
-            <h1 class="wow fadeIn" data-wow-delay=".5s">Inicio</h1>
+            <h1 class="wow fadeIn" data-wow-delay=".5s">Home</h1>
             <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">Aprovecha al máximo el núcleo de Parrot sin herramientas específicas, con un sistema básico y completamente personalizable.</h4>
             <a href="https://www.parrotsec.org/download.fx#lite" class="moreinfo btn btn-primary">
               <span>Instalar Parrot Lite</span>
