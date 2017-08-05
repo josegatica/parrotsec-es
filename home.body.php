@@ -11,12 +11,12 @@
                 <div class="mdl-card mdl-cell mdl-cell--7-col-desktop mdl-cell--4-col-tablet mdl-cell--4-col-phone">
                     <div class="mdl-card__supporting-text">
                         <h3>Parrot Security</h3>
-                        Security GNU/Linux distribution designed with cloud pentesting and IoT security in mind.<br><br>
-                        It includes a full portable laboratory for security and digital forensics experts, but it also includes
-                        all you need to develop your own softwares or protect your privacy with anonymity and crypto tools.
+                        Distribución GNU/Linux de seguridad diseñada con cloud pentesting y pensada para seguridad IoT.<br><br>
+                        Incluye un completo laboratorio portátil para expertos en seguridad y forenses digitales, pero además incluye
+                        todo lo que necesitas para desarrollar tu propio software o proteger tu privacidad con anonimato y herramientas de criptografía.
                     </div>
                     <div class="mdl-card__actions">
-                        <a href="https://community.parrotsec.org/post.php?fid=4" class="mdl-button">Contact our Support staff</a>
+                        <a href="https://community.parrotsec.org/post.php?fid=4" class="mdl-button">Contacta a nuestro equipo de soporte</a>
                     </div>
                 </div>
             </section>
@@ -28,26 +28,26 @@
                             <div class="section__circle-container__circle mdl-color--primary" style="background:url('img/shield.png') center / cover no-repeat"></div>
                         </div>
                         <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-                            <h4>Security</h4>
-                            Parrot Security includes a full arsenal of security oriented tools to perform penetration tests, security audits and more.
-                            With a Parrot usb drive in your pocket you will always be sure to have all you need with you.<br><br>
+                            <h4>Seguridad</h4>
+                            Parrot Security incluye un completo arsenal de herramientas orientadas a la seguridad para llevar a cabo pruebas de penetración, auditorías de seguridad y más.
+                            Con un dispositivo USB con Parrot en tu bolsillo estarás siempre seguro de llevar todo lo que necesitas contigo.<br><br>
                         </div>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
                             <div class="section__circle-container__circle mdl-color--blue-grey-100" style="background:url('img/gpg.png') center / 50% no-repeat"></div>
                         </div>
                         <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-                            <h4>Privacy</h4>
-                            Parrot includes by default TOR, I2P, anonsurf, gpg, tccf, zulucrypt, veracrypt, truecrypt, luks
-                            and many other technologies designed to defend your privacy and your identity.<br><br>
+                            <h4>Privacidad</h4>
+                            Parrot incluye por defecto TOR, I2P, anonsurf, gpg, tccf, zulucrypt, veracrypt, truecrypt, luks
+                            y muchas otras tecnologías diseñadas para defender tu privacidad y tu identidad.<br><br>
                         </div>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
                             <div class="section__circle-container__circle mdl-color--primary"><h2 align="center"><font color="#fff">{}</font></h2></div>
                         </div>
                         <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
-                            <h4>Development</h4>
-                            If you need a comfortable environment with updated frameworks and useful libraries already installed, Parrot will amaze you
-                            as it includes a full development-oriented environment with some powerful editors and IDEs pre-installed and many other tools
-                            installable from our repository.<br><br>
+                            <h4>Desarrollo</h4>
+                            Si necesitas un cómodo entorno con frameworks actualizados y bibliotecas útiles ya instaladas, Parrot te sorprenderá
+                            ya que incluye un completo entorno orientado al desarrollo con algunos poderosos editores de texto y IDEs preinstalados y muchas otras herramientas
+                            instalables desde nuestro repositorio.<br><br>
                         </div>
                     </div>
                 </div>
@@ -55,12 +55,12 @@
             <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text">
-                        <h4>Community</h4>
-                        <b>We exist because of our awesome community</b><br>
-                        Feel free to join us, and actively follow our development, know awesome people all around the world and get help directly from the developers.
+                        <h4>Comunidad</h4>
+                        <b>Existimos gracias a nuestra increíble comunidad</b><br>
+                        Siéntete libre para unirte a nosotros, y sigue activamente nustro desarrollo, conoce gente increíble de todo el mundo y obtén ayuda directamente de sus desarrolladores.
                     </div>
                     <div class="mdl-card__actions">
-                        <a href="https://community.parrotsec.org/register.php" class="mdl-button">Join us</a>
+                        <a href="https://community.parrotsec.org/register.php" class="mdl-button">Únete</a>
                     </div>
                 </div>
             </section>
@@ -70,9 +70,9 @@
                 </div>
                 <div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
                     <a href="https://dasaweb.net/cart.php?gid=18" target="_blank" style="color:#666">
-                        <h4>Dasaweb and Parrot Cloud</h4>
-                        Dasaweb a great european provider, now sells VPS with parrot cloud pre-installed.<br>
-                        The service is maintained in collaboration with the Parrot Core Team and the service seems to have an exponential popularity.
+                        <h4>Dasaweb y Parrot Cloud</h4>
+                        Dasaweb, un gra proveedor europeo, ahora vende VPSs con Parrot Cloud pre-instalado.<br>
+                        El servicio es mantenido en colaboración con el equipo cetral de Parrot y el servicio parece tener una popularidad exponencial.
                     </a>
                 </div>
                 <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
@@ -80,8 +80,8 @@
                 </div>
                 <div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
                     <a href="https://irisproject.org" target="_blank" style="color:#666">
-                        <h4>Iris Project</h4>
-                        Some members of the Parrot Core Team are working on a derivative project with the aim to ship a Debian based distribution with only free software, the project is made as an alternative to the old GNewSense distribution which seems to be no longer maintained.
+                        <h4>Proyecto Iris</h4>
+                        Algunos miembros del equipo central de Parrot están trabajando en un proyecto derivado, con el objetivo de armar una distribución basada en Debian con software libre únicamente, el proyecto está hecho como una alternativa a la antigua distribución GNewSense, la cual pareciera ya no tener soporte a futuro.
                     </a>
                 </div>
             </section>
