@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Cloud oriented Pentesting GNU/Linux distribution">
-<meta name="keywords" content="parrot,parrotsec,security, parrot security,pentesting,pentest,pentester,hacker,hacking,hack,hacker distribution,hacker os,hacking distribution,hacking os,frozenbox,eclipse,eclipsespark,eclipse spark,sheireen,mibofra,cloud pentesting,mobile pentesting">
+<meta name="keywords" content="parrot,parrotsec, español, hispana,security, parrot security,pentesting,pentest,pentester,hacker,hacking,hack,hacker distribution,hacker os,hacking distribution,hacking os,frozenbox,eclipse,eclipsespark,eclipse spark,sheireen,mibofra,cloud pentesting,mobile pentesting">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 <!-- Add to homescreen for Chrome on Android -->
