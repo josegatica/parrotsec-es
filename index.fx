@@ -42,40 +42,22 @@
         <nav class="hidden-xs col-sm-10 text-right wow fadeIn" id="main-menu">
           <ul>
             <li>
-              <a class='smoothScroll' id="home" data-linkto='parrot-os' href="https://www.parrotsec.org/">Home</a>
+              <a class='smoothScroll' id="home" data-linkto='parrot-os' href="https://www.parrotsec-es.org/">Inicio</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-features' href="https://www.parrotsec.org/features.fx">Features</a>
+              <a class='smoothScroll' data-linkto='parrot-download' href="https://www.parrotsec.org/download.fx">Descargas</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-download' href="https://www.parrotsec.org/download.fx">Download</a>
+              <a class='smoothScroll' data-linkto='parrot-news' href="https://blog.parrotsec.org">Noticias</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-news' href="https://blog.parrotsec.org">News</a>
+              <a class='smoothScroll' data-linkto='parrot-documentation' href="https://docs.parrotsec.org">Documentación</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-documentation' href="https://docs.parrotsec.org">Documentation</a>
-            </li>
-            <li>
-              <a class='smoothScroll' data-linkto='parrot-community' href="https://community.parrotsec.org">Community</a>
-            </li>
-            <li>
-              <a class='smoothScroll' data-linkto='parrot-dev' href="https://dev.parrotsec.org">Dev Portal</a>
-            </li>
-            <li>
-              <a class='smoothScroll' data-linkto='parrot-partners' href="https://docs.parrotsec.org/partners">Partners</a>
-            </li>
-            <li>
-              <a class='smoothScroll' data-linkto='parrot-donations' href="https://docs.parrotsec.org/donate">Donations</a>
-            </li>
-            <li>
-              <a class='smoothScroll' data-linkto='parrot-join' href="https://docs.parrotsec.org/community">Join</a>
+              <a class='smoothScroll' data-linkto='parrot-community' href="https://community.parrotsec.org">Comunidad</a>
             </li>
             <li>
               <a class='smoothScroll' data-linkto='parrot-faq' href="https://docs.parrotsec.org/FAQ">F.A.Q.</a>
-            </li>
-            <li>
-              <a class='smoothScroll' data-linkto='parrot-faq' href="https://dev.parrotsec.org/parrot/parrotsec.org">Edit</a>
             </li>
           </ul>
         </nav>
@@ -93,19 +75,19 @@
 
   <section id="parrot-os">
     <article class="container-fluid">
-      <h2 class="text-center wow fadeInUp">Discover the <b>Parrot Universe</b> and get the most from our awesome Debian-based platform.</h2>
-      <h3 class="text-center wow fadeInUp">Professional tools for security testing, software development and privacy defense, all in one place.</h3>
+      <h2 class="text-center wow fadeInUp">Descubre el <b>Universo Parrot</b> y obtén el máximo de nuestra increíble plataforma basada en Debian.</h2>
+      <h3 class="text-center wow fadeInUp">Herramientas profesionales para pruebas de seguridad, desarrollo de software y defensa de la privacidad, todo en un solo lugar.</h3>
       <div class="row os-main">
         <div class="col-sm-6 text-center wow fadeIn" data-wow-delay=".2s">
           <div id="security">
             <div class="distributions-icon">
               <img src="img/logo-black.png" class="wow bounceInDown"  data-wow-delay=".7s" />
             </div>
-            <h1 class="wow fadeIn" data-wow-delay=".5s">Security</h1>
-            <h4 class="wow fadeIn" data-wow-delay=".6s">A full environment providing many security tools and a complete environment for anonymity and software development.</h4>
-            <a href="https://www.parrotsec.org/features.fx" class="moreinfo btn btn-default">More information</a>
+            <h1 class="wow fadeIn" data-wow-delay=".5s">Seguridad</h1>
+            <h4 class="wow fadeIn" data-wow-delay=".6s">Un entorno completo que proporciona variadas herramientas de seguridad y un completo entorno para anonimato y desarrollo de software.</h4>
+            <a href="https://www.parrotsec-es.org/features.fx" class="moreinfo btn btn-default">Más información</a>
             <a href="https://www.parrotsec.org/download.fx#security" class="moreinfo btn btn-primary">
-              <span>Install Parrot Security</span>
+              <span>Instalar Parrot Security</span>
             </a>
           </div>
         </div>
@@ -114,10 +96,10 @@
             <div class="distributions-icon">
               <img src="img/logo-white.png" class="distributions-icon wow bounceInDown"  data-wow-delay=".7s" />
             </div>
-            <h1 class="wow fadeIn" data-wow-delay=".5s">Home</h1>
-            <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">Get the most from the Parrot core without specific tools with a barebone and fully customizabile system.</h4>
+            <h1 class="wow fadeIn" data-wow-delay=".5s">Inicio</h1>
+            <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">Aprovecha al máximo el núcleo de Parrot sin herramientas específicas, con un sistema básico y completamente personalizable.</h4>
             <a href="https://www.parrotsec.org/download.fx#lite" class="moreinfo btn btn-primary">
-              <span>Install Parrot Lite</span>
+              <span>Instalar Parrot Lite</span>
             </a>
           </div>
         </div>
@@ -134,9 +116,9 @@
               <img src="img/air.png" class="wow bounceInDown"  data-wow-delay=".7s" />
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">Air</h1>
-            <h4 class="wow fadeIn" data-wow-delay=".6s">A special Parrot derivative focused on Wireless testing!</h4>
+            <h4 class="wow fadeIn" data-wow-delay=".6s">Un especial derivado de Parrot enfocado en pruebas Wireless</h4>
             <a href="https://www.parrotsec.org/download.fx#air" class="moreinfo btn btn-primary">
-              <span>Install Parrot Air</span>
+              <span>Instalar Parrot Air</span>
             </a>
           </div>
         </div>
@@ -146,9 +128,9 @@
               <img src="img/workstation.png" class="distributions-icon wow bounceInDown"  data-wow-delay=".7s" />
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">Studio</h1>
-            <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">Get the most complete and lightweight Debian-based GNU/Linux distribution for your workstation.</h4>
+            <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">Obtén la más completa y liviana distribución basada en Debian GNU/Linux para tu estación de trabajo.</h4>
             <a href="https://www.parrotsec.org/download.fx#studio" class="moreinfo btn btn-primary">
-              <span>Install Parrot Studio</span>
+              <span>Instalar Parrot Studio</span>
             </a>
           </div>
         </div>
@@ -165,10 +147,10 @@
               <img src="img/servers.png" class="wow bounceInDown"  data-wow-delay=".7s" />
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">Cloud</h1>
-            <h4 class="wow fadeIn" data-wow-delay=".6s">Mix the tools of Parrot with the power of the cloud and make your pentests easier with one of our cloud pentest boxes.</h4>
+            <h4 class="wow fadeIn" data-wow-delay=".6s">Mezcla las herramientas de Parrot con el poder de la nube y haz tus pruebas de penetración más fácil con una de nuestras cajas de pentesting en la nube.</h4>
             <a href="https://www.parrotsec.org/features.fx#cloud" class="moreinfo btn btn-default">More information</button>
             <a href="https://core.dasaweb.net/cart.php?gid=18" class="moreinfo btn btn-primary">
-              <span>Get Parrot Cloud</span>
+              <span>Obtener Parrot Cloud</span>
             </a>
           </div>
         </div>
@@ -178,9 +160,9 @@
               <img src="img/iot.png" class="distributions-icon wow bounceInDown"  data-wow-delay=".7s" />
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">Iot</h1>
-            <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">Want to run Parrot on a Raspberry Pi, a Pine64 or another embedded device? Discover what happens when Parrot meets your favourite SoC boards.</h4>
+            <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">¿Quieres arrancar Parrot en una Raspberry Pi, Pine64 u otro dispositivo integrado? Descubre qué ocurre cuando Parrot conoce tus placas SoC favoritas.</h4>
             <a href="https://www.parrotsec.org/download.fx#iot" class="moreinfo btn btn-primary">
-              <span>Get Parrot IoT</span>
+              <span>Obtener Parrot IoT</span>
             </a>
           </div>
         </div>
@@ -193,7 +175,7 @@
     <div class="section-background"></div>
     <article>
       <h2 class="strong-title wow slideInDown" lang="en">Meet us in a Parrot event.</h2>
-      <a href="https://blog.parrotsec.org/category/events/" target="_blank" class="btn btn-default wow zoomIn"><span lang="en">View upcoming events</span></a>
+      <a href="https://blog.parrotsec.org/category/events/" target="_blank" class="btn btn-default wow zoomIn"><span lang="en">Ver eventos globales</span></a>
     </article>
   </section>
   <footer>
@@ -230,11 +212,6 @@
                 <li>
                   <a href="https://distrowatch.com/table.php?distribution=parrotsecurity">
                     <span>Distrowatch</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="http://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/Parrot-security-OS-102936.shtml">
-                    <span>Softpedia</span>
                   </a>
                 </li>
               </ul>
@@ -281,8 +258,8 @@
         </div>
       </div>
       <div class="blue-triangular-division wow slideInDown"></div>
-      <p class="text-center">© Lorenzo Faletra Some Rights Reserved.</span> - <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU/GPL v3</a></p>
-      <p class="text-center">Proudly Powered in Sicily!</p>
+      <p class="text-center">© Lorenzo Faletra & ParrotSec Spanish Community Algunos derechos reservados.</span> - <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU/GPL v3</a></p>
+      <p class="text-center">¡Orgullosamente desarrollado por la comunidad de habla hispana de Parrot Security OS!</p>
       </p>
     </div>
   </footer>
