@@ -14,7 +14,6 @@
   <meta property="og:image"       content="https://www.parrotsec.org/img/facebook-preview.png" />
   <meta property="og:description" content="Descubre nuestro increíble entorno GNU/Linux de ciber seguridad. Incluye un laboratorio portable completo para expertos forenses digitales y de seguridad, pero también incluye todo lo que necesitas para desarrollar tus propios programas o proteger tu privacidad con anonimato y crypto-herramientas." />
   <meta property="fb:app_id"      content="">
-
   <link href="css/parrot.min.css" type="text/css" rel="stylesheet" />
   <!--external libraries CSS -->
   <link href="css/vendor.min.css"   type="text/css" rel="stylesheet" />
@@ -45,7 +44,7 @@
               <a class='smoothScroll' id="home" data-linkto='parrot-os' href="https://www.parrotsec-es.org/">Inicio</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-download' href="https://www.parrotsec.org/download.fx">Descargas</a>
+              <a class='smoothScroll' data-linkto='parrot-download' href="https://www.parrotsec-es.org/download.php">Descargas</a>
             </li>
             <li>
               <a class='smoothScroll' data-linkto='parrot-news' href="https://blog.parrotsec.org">Noticias</a>
@@ -85,8 +84,8 @@
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">Security</h1>
             <h4 class="wow fadeIn" data-wow-delay=".6s">Un entorno completo que proporciona variadas herramientas de seguridad y un completo entorno para anonimato y desarrollo de software.</h4>
-            <a href="https://www.parrotsec-es.org/features.fx" class="moreinfo btn btn-default">Más información</a>
-            <a href="https://www.parrotsec.org/download.fx#security" class="moreinfo btn btn-primary">
+            <a href="https://www.parrotsec-es.org/features.php" class="moreinfo btn btn-default">Más información</a>
+            <a href="https://www.parrotsec-es.org/download.php#security" class="moreinfo btn btn-primary">
               <span>Instalar Parrot Security</span>
             </a>
           </div>
@@ -98,7 +97,7 @@
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">Home</h1>
             <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">Aprovecha al máximo el núcleo de Parrot sin herramientas específicas, con un sistema básico y completamente personalizable.</h4>
-            <a href="https://www.parrotsec.org/download.fx#lite" class="moreinfo btn btn-primary">
+            <a href="https://www.parrotsec-es.org/download.php#lite" class="moreinfo btn btn-primary">
               <span>Instalar Parrot Lite</span>
             </a>
           </div>
@@ -117,7 +116,7 @@
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">Air</h1>
             <h4 class="wow fadeIn" data-wow-delay=".6s">Un especial derivado de Parrot enfocado en pruebas Wireless</h4>
-            <a href="https://www.parrotsec.org/download.fx#air" class="moreinfo btn btn-primary">
+            <a href="https://www.parrotsec-es.org/download.php#air" class="moreinfo btn btn-primary">
               <span>Instalar Parrot Air</span>
             </a>
           </div>
@@ -129,7 +128,7 @@
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">Studio</h1>
             <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">Obtén la más completa y liviana distribución basada en Debian GNU/Linux para tu estación de trabajo.</h4>
-            <a href="https://www.parrotsec.org/download.fx#studio" class="moreinfo btn btn-primary">
+            <a href="https://www.parrotsec-es.org/download.php#studio" class="moreinfo btn btn-primary">
               <span>Instalar Parrot Studio</span>
             </a>
           </div>
@@ -148,7 +147,7 @@
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">Cloud</h1>
             <h4 class="wow fadeIn" data-wow-delay=".6s">Mezcla las herramientas de Parrot con el poder de la nube y haz tus pruebas de penetración más fácil con una de nuestras cajas de pentesting en la nube.</h4>
-            <a href="https://www.parrotsec.org/features.fx#cloud" class="moreinfo btn btn-default">More information</button>
+            <a href="https://www.parrotsec-es.org/features.php#cloud" class="moreinfo btn btn-default">More information</button>
             <a href="https://core.dasaweb.net/cart.php?gid=18" class="moreinfo btn btn-primary">
               <span>Obtener Parrot Cloud</span>
             </a>
@@ -161,7 +160,7 @@
             </div>
             <h1 class="wow fadeIn" data-wow-delay=".5s">Iot</h1>
             <h4 class="wow fadeIn" data-wow-delay=".6s" lang="en">¿Quieres arrancar Parrot en una Raspberry Pi, Pine64 u otro dispositivo integrado? Descubre qué ocurre cuando Parrot conoce tus placas SoC favoritas.</h4>
-            <a href="https://www.parrotsec.org/download.fx#iot" class="moreinfo btn btn-primary">
+            <a href="https://www.parrotsec-es.org/download.php#iot" class="moreinfo btn btn-primary">
               <span>Obtener Parrot IoT</span>
             </a>
           </div>

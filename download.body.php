@@ -105,7 +105,7 @@ $version = "3.7";
                             <p>Parrot Server Edition, diseñada para ser rápidamente desplegada donde lo necesites y controlada remotamente para llevar a cabo pruebas de penetración en la nube.</p>
                             <a href="https://core.dasaweb.net/cart.php?gid=18" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--blue-grey mdl-color-text--accent-contrast button-margin">Comprar un VPS</a><br>
                             <a href="#netboot" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--blue-grey mdl-color-text--accent-contrast button-margin">Obtener con Parrot Netboot Installer</a><br>
-                            <a href="https://www.parrotsec.org/features.fx#cloud" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--blue-grey mdl-color-text--accent-contrast button-margin">Saber más</a><br><br>
+                            <a href="https://www.parrotsec-es.org/features.php#cloud" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--blue-grey mdl-color-text--accent-contrast button-margin">Saber más</a><br><br>
 
                         </div>
                     </div>

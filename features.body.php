@@ -81,7 +81,7 @@
                         </ul>
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
-                        <a href="https://www.parrotsec.org/download.fx" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                        <a href="https://www.parrotsec-es.org/download.php" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                             Get Started
                         </a>
                     </div>
