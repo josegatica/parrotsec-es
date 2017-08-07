@@ -47,10 +47,10 @@
               <a class='smoothScroll' data-linkto='parrot-download' href="https://www.parrotsec-es.org/download.php">Descargas</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-news' href="https://blog.parrotsec.org">Noticias</a>
+              <a class='smoothScroll' data-linkto='parrot-news' href="https://blog.parrotsec.org" target="blank">Noticias</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-documentation' href="https://docs.parrotsec.org">Documentación</a>
+              <a class='smoothScroll' data-linkto='parrot-documentation' href="https://docs.parrotsec.org" target="blank">Documentación</a>
             </li>
             <li>
               <a class='smoothScroll' data-linkto='parrot-community' href="https://community.parrotsec.org/viewforum.php?id=25" target="blank">Comunidad</a>
