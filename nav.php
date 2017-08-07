@@ -12,6 +12,6 @@
             <a href="https://blog.parrotsec.org/" class="mdl-layout__tab">Noticias</a>
             <a href="https://docs.parrotsec.org/" target="blank" class="mdl-layout__tab">Documentación</a>
             <a href="https://community.parrotsec.org/viewforum.php?id=25" target="blank" class="mdl-layout__tab">Comunidad</a>
-            <a href="https://docs.parrotsec.org/FAQ" target="blank" class="mdl-layout__tab">FAQ</a>
+            <a href="https://github.com/josegatica/parrot-docu-es/blob/master/faq.md" target="blank" class="mdl-layout__tab">FAQ</a>
         </div>
     </header>
