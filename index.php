@@ -53,10 +53,10 @@
               <a class='smoothScroll' data-linkto='parrot-documentation' href="https://docs.parrotsec.org">Documentación</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-community' href="https://community.parrotsec.org">Comunidad</a>
+              <a class='smoothScroll' data-linkto='parrot-community' href="https://community.parrotsec.org/viewforum.php?id=25" target="blank">Comunidad</a>
             </li>
             <li>
-              <a class='smoothScroll' data-linkto='parrot-faq' href="https://docs.parrotsec.org/FAQ">F.A.Q.</a>
+              <a class='smoothScroll' data-linkto='parrot-faq' href="https://github.com/josegatica/parrot-docu-es/blob/master/faq.md" target="blank">F.A.Q.</a>
             </li>
           </ul>
         </nav>
