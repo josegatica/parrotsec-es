@@ -25,7 +25,7 @@
                     <ul class="mdl-mega-footer--link-list">
                         <li><a target="_blank" href="https://t.me/ParrotSpanishGroup">Telegram (Grupo en español)</a></li>
                         <li><a target="_blank" href="http://lists.parrotsec.org/listinfo">Lista de correo</a></li>
-                        <li><a target="_blank" href="https://www.facebook.com/groups/parrotsec/">Grupo global en Facebook (en inglés)</a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/parrot.es/">FanPage en Facebook</a></li>
                     </ul>
                 </div>
                 <div class="mdl-mega-footer--drop-down-section">
@@ -33,7 +33,7 @@
                     <h1 class="mdl-mega-footer--heading">Social Pages</h1>
                     <ul class="mdl-mega-footer--link-list">
                         <li><a target="_blank" href="https://dev.parrotsec.org/parrot/">Git</a></li>
-                        <li><a target="_blank" href="https://facebook.com/parrotsec">Facebook</a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/parrot.es/">Facebook</a></li>
                         <li><a target="_blank" href="https://twitter.com/parrotsec">Twitter</a></li>
                         <li><a target="_blank" href="https://www.youtube.com/channel/UCj2dezzTc_Oy9eAEwBBodpw">Youtube</a></li>
                     </ul>
