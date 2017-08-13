@@ -242,14 +242,14 @@
           </div>
         </div>
         <div class="col-sm-5 col-sm-offset-2 social-networks">
+          <a href="https://www.facebook.com/parrot.es/" target="_blank" class="wow fadeIn" data-wow-delay=".6s">
+            <i class="fa fa-facebook-square"></i>
+          </a>
           <a href="https://twitter.com/parrotsec" target="_blank" class="wow fadeIn">
             <i class="fa fa-twitter-square"></i>
           </a>
           <a href="https://plus.google.com/111027400980207179581" target="_blank" class="wow fadeIn" data-wow-delay=".3s">
             <i class="fa fa-google-plus-square"></i>
-          </a>
-          <a href="https://www.facebook.com/parrotsec" target="_blank" class="wow fadeIn" data-wow-delay=".6s">
-            <i class="fa fa-facebook-square"></i>
           </a>
           <a href="https://www.youtube.com/channel/UCj2dezzTc_Oy9eAEwBBodpw" target="_blank" class="wow fadeIn" data-wow-delay=".9s">
             <i class="fa fa-youtube-square"></i>
