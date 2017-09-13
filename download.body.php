@@ -1,5 +1,5 @@
 <?php
-$version = "3.7";
+$version = "3.8";
 ?>
 
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
@@ -28,18 +28,20 @@ $version = "3.7";
                             <div class="mdl-grid mdl-grid--no-spacing">
                                 <div class="mdl-cell--6-col">
                                     <h4>32bit</h4>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_i386.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_i386.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_i386.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_i386.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
                                     <a href="https://archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Hashes</a><br><br>
                                 </div>
+
                                 <div class="mdl-cell--6-col">
                                     <h4>64bit</h4>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_amd64.iso" target="_blank" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_amd64.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_amd64.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_amd64.iso" target="_blank" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_amd64.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-full-<?php echo $version; ?>_amd64.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
                                     <a href="https://archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Hashes</a><br><br>
                                 </div>
+
                             </div>
                         </div>
                     </div>
@@ -57,16 +59,17 @@ $version = "3.7";
                             <div class="mdl-grid mdl-grid--no-spacing">
                                 <div class="mdl-cell--6-col">
                                     <h4>32bit</h4>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_i386.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_i386.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_i386.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_i386.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_i386.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
                                     <a href="https://archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Hashes</a><br><br>
                                 </div>
+
                                 <div class="mdl-cell--6-col">
                                     <h4>64bit</h4>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_amd64.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_amd64.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_amd64.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-lite-<?php echo $version; ?>_amd64.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
                                     <a href="https://archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Hashes</a><br><br>
                                 </div>
                             </div>
@@ -85,9 +88,9 @@ $version = "3.7";
                             <p>Edición de Parrot especialmente diseñada para pruebas Wireless, es un subconjunto de Parrot Full Edition conteniendo sólo las herramientas útiles para testear dispositivos de comunicación inalámbrica.</p>
                             <div class="mdl-grid mdl-grid--no-spacing">
                                     <h4>64bit</h4>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-air-<?php echo $version; ?>_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-air-<?php echo $version; ?>_amd64.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-air-<?php echo $version; ?>_amd64.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-air-<?php echo $version; ?>_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-air-<?php echo $version; ?>_amd64.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-air-<?php echo $version; ?>_amd64.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
                                     <a href="https://archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Hashes</a><br><br>
                             </div>
                         </div>
@@ -114,7 +117,7 @@ $version = "3.7";
             <section name="iot" id="iot" class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
                 <div class="mdl-card mdl-cell mdl-cell--12-col">
                     <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
-                        <h4 class="mdl-cell mdl-cell--12-col">Embedded Devices and IoT</h4>
+                        <h4 class="mdl-cell mdl-cell--12-col">Dispositivos embebidos e IoT</h4>
                         <div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--12-col-phone">
                             <div class="section__circle-container__circle mdl-color--white" style="background:url('img/boxes.jpg') center / cover no-repeat"></div>
                         </div>
@@ -122,17 +125,18 @@ $version = "3.7";
                             <div class="mdl-grid mdl-grid--no-spacing">
                                 <div class="mdl-cell--6-col">
                                     <h4>Raspberry Pi</h4>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/arm/parrotsec-3.4-armhf-rpi-1/index.html" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/arm/parrotsec-3.4-armhf-rpi-1/index.html" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descarga</a>
                                 </div>
                                 <div class="mdl-cell--6-col">
                                     <h4>Generic Rootfs</h4>
-                                    <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/arm/parrotsec-3.4-armhf-1/" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
+                                    <a href="https://cdimage.parrotsec.org/parrot/iso/arm/parrotsec-3.4-armhf-1/" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descarga</a>
 
                                 </div>
                                 <div class="mdl-cell--6-col">
                                     <a href="https://archive.parrotsec.org/parrot/iso/arm/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">hashes</a>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
@@ -143,13 +147,13 @@ $version = "3.7";
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>ISO USB Image Writer</h4>
                         <p>Los archivos ISO de Parrot son distribuídos como imágenes ISOHYBRID (iso9660), por lo que necesitas software especial (como DD) para ponerlas en un dispositivo USB. Rosa Image Writer es una poderosa herramienta multiplataforma que trabaja perfectamente con Parrot</p>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux64.exec" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Linux 64bit</a>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux32.exec" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Linux 32bit</a>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-win.exe" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Windows</a>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-osx.dmg" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>OSX</a>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-all.zip" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Todo</a>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-source.zip" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Código Fuente</a>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/misc/image-writer/" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col">Saber más</a>
+                        <a href="https://cdimage.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux64.exec" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Linux 64bit</a>
+                        <a href="https://cdimage.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-linux32.exec" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Linux 32bit</a>
+                        <a href="https://cdimage.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-win.exe" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Windows</a>
+                        <a href="https://cdimage.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-osx.dmg" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>OSX</a>
+                        <a href="https://cdimage.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-all.zip" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>All</a>
+                        <a href="https://cdimage.parrotsec.org/parrot/misc/image-writer/rosa-image-writer-2.6.2-source.zip" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col" download>Codigo Fuente</a>
+                        <a href="https://cdimage.parrotsec.org/parrot/misc/image-writer/" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast mdl-cell mdl-cell--3-col">Mas info</a>
                     </div>
                     <div class="mdl-card__supporting-text" align="center">
                         <h4>Archivos</h4>
@@ -161,16 +165,16 @@ $version = "3.7";
                     <div name="netboot" id="netboot" class="mdl-card__supporting-text" align="center">
                         <h4>Imágenes para instalación en red</h4>
                         <p>Las imágenes para netbooks son archivos muy pequeños que contienen sólo el instalador de Parrot, requiere conexión a internet para ser instalado.</p>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/dists/stable/main/installer-i386/current/images/netboot/mini.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 32bit</a>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/dists/stable/main/installer-amd64/current/images/netboot/mini.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 64bit</a><br><br>
+                        <a href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-i386/current/images/netboot/mini.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 32bit</a>
+                        <a href="https://cdimage.parrotsec.org/parrot/dists/stable/main/installer-amd64/current/images/netboot/mini.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-margin">Netinstall 64bit</a><br><br>
                     </div>
                     <div id="studio" name="studio" class="mdl-card__supporting-text" align="center">
                         <h4>Parrot <?php echo $version; ?> Studio (64bit)</h4>
                         <p>Parrot Studio es un proyecto derivado para creación de contenido multimedia; aplicaciones para audio, gráficos, video, fotografía y flujos de trabajo en programación.</p>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-studio-<?php echo $version; ?>_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-studio-<?php echo $version; ?>_amd64.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
-                        <a href="https://mirrordirector.archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-studio-<?php echo $version; ?>_amd64.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
-                        <a href="https://archive.parrotsec.org/parrot/iso/<?php echo $version; ?>/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Hashes</a><br><br>
+                        <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-studio-<?php echo $version; ?>_amd64.iso" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060606;background:#00a000;">Descargar</a>
+                        <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-studio-<?php echo $version; ?>_amd64.iso.mirrorlist" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width" style="color: #060806;background:#00b000;">Mirrors</a>
+                        <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/Parrot-studio-<?php echo $version; ?>_amd64.iso.torrent" target="_blank" style="color:#060606;background:#00a0a0;" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Torrent</a>
+                        <a href="https://cdimage.parrotsec.org/parrot/iso/<?php echo $version; ?>/signed-hashes.txt" target="_blank" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast button-fixed-width">Hashes</a><br><br>
                     </div>
                 </div>
             </section>
