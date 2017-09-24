@@ -8,7 +8,7 @@
   <meta name="author"   content="Lorenzo Faletra - José Gatica - Alejandro Franco - Claudio Peon">
   <!-- Meta data to help Facebook generate the right advertisement -->
   <meta property="og:type"        content="article" />
-  <meta property="og:title"       content="La mejor opción para expertos en seguridad, desarrolladores y crypto-adictos." />
+  <meta property="og:title"       content="Esperemos ansiosos el lanzamiento de "Migración", la segunda edición de nuestra documentacin oficial." />
   <meta property="og:site_name"   content="Parrot Security"/>
   <meta property="og:url"         content="https://www.parrotsec-es.org" />
   <meta property="og:image"       content="https://www.parrotsec.org/img/facebook-preview.png" />
