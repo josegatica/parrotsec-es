@@ -74,7 +74,7 @@
 
   <section id="parrot-os">
     <article class="container-fluid">
-      <h1 class="text-center wow fadeInUp">Esperemos ansiosos a <b>MIGRACIÓN</b>, la segunda edicin de nuestra documentación en español.</h1>
+      <h1 class="text-center wow fadeInUp">Esperemos ansiosos a <b>MIGRACIÓN</b>, la segunda edición de nuestra documentación en español.</h1>
       <h2 class="text-center wow fadeInUp">Descubre el <b>Universo Parrot</b> y obtén el máximo de nuestra increíble plataforma basada en Debian.</h2>
       <h3 class="text-center wow fadeInUp">Herramientas profesionales para pruebas de seguridad, desarrollo de software y defensa de la privacidad, todo en un solo lugar.</h3>
       <div class="row os-main">
