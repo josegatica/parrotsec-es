@@ -66,8 +66,9 @@
       </div>
     </div>
 </header>
-	<body style="padding-top: 150px; oadding-bottom: 100px;" class="mdl-parrot mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
+	<body class="mdl-parrot mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
 		<center>
+			<div style="padding-top: 50px; oadding-bottom: 50px;">
 			<hr>
 			<br>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/6AkhIOCvmYQ?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -104,7 +105,7 @@
 			<br>
 			<hr>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/t7Nx3q00XjQ?rel=0" frameborder="0" allowfullscreen></iframe>
-			<br>
+			</div>
 		</center>
 	</body>
 </html>
