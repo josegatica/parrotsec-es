@@ -1,18 +1,18 @@
 <?php $page="download"; ?>
 <html>
 <head>
-  <title>Proyecto ParrotSec</title>
+  <title>VideoTutoriales</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="author"   content="Lorenzo Faletra - José Gatica - Alejandro Franco - Claudio Peon">
+  <meta name="author"   content="Lorenzo Faletra - José Gatica - Claudio Peon">
   <!-- Meta data to help Facebook generate the right advertisement -->
   <meta property="og:type"        content="article" />
-  <meta property="og:title"       content="Esperemos ansiosos el lanzamiento de "Migración", la segunda edición de nuestra documentacin oficial." />
+  <meta property="og:title"       content="Videotutoriales ParrotSec en Español - Esperemos ansiosos el lanzamiento de "Migración", la segunda edición de nuestra documentacin oficial." />
   <meta property="og:site_name"   content="Parrot Security"/>
   <meta property="og:url"         content="https://www.parrotsec-es.org" />
   <meta property="og:image"       content="https://www.parrotsec.org/img/facebook-preview.png" />
-  <meta property="og:description" content="Descubre nuestro increíble entorno GNU/Linux de ciber seguridad. Incluye un laboratorio portable completo para expertos forenses digitales y de seguridad, pero también incluye todo lo que necesitas para desarrollar tus propios programas o proteger tu privacidad con anonimato y crypto-herramientas." />
+  <meta property="og:description" content="Completa serie de videotutoriales de hacking, desde cero. Descubre nuestro increíble entorno GNU/Linux de ciber seguridad. Incluye un laboratorio portable completo para expertos forenses digitales y de seguridad, pero también incluye todo lo que necesitas para desarrollar tus propios programas o proteger tu privacidad con anonimato y crypto-herramientas." />
   <meta property="fb:app_id"      content="">
   <link href="css/parrot.min.css" type="text/css" rel="stylesheet" />
   <!--external libraries CSS -->
