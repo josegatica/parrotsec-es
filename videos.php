@@ -66,7 +66,7 @@
       </div>
     </div>
 </header>
-	<body class="mdl-parrot mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
+	<body style="padding-top: 150px;" class="mdl-parrot mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
 		<center>
 			<br>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/6AkhIOCvmYQ?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -94,8 +94,5 @@
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/t7Nx3q00XjQ?rel=0" frameborder="0" allowfullscreen></iframe>
 			<br>
 		</center>
-<?php
-    include("footer.php");
-?>
 	</body>
 </html>
