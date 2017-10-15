@@ -47,6 +47,9 @@
               <a class='smoothScroll' data-linkto='parrot-download' href="https://www.parrotsec-es.org/download.php">Descargas</a>
             </li>
             <li>
+              <a class='smoothScroll' data-linkto='parrot-videos' href="https://www.parrotsec-es.org/videos.php">Videotutoriales</a>
+            </li>
+            <li>
               <a class='smoothScroll' data-linkto='parrot-news' href="https://blog.parrotsec.org" target="blank">Noticias</a>
             </li>
             <li>
