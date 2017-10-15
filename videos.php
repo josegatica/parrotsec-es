@@ -1,4 +1,4 @@
-<?php $page="videos"; ?>
+<?php $page="download"; ?>
 <html>
 	<head>
 		<?php
