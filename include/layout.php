@@ -75,7 +75,7 @@ echo
               </ul>
               <ul class="nav navbar-nav navbar-right">
                   <li>
-                      <a class="page-scroll" href="https://dev.parrotsec.org/parrot/parrotsec.org" target="_blank">',$lang['nav-12'],'</a>
+                      <a class="page-scroll" href="https://github.com/josegatica/parrotsec-es" target="_blank">',$lang['nav-12'],'</a>
                   </li>
               </ul>
           </div>
