@@ -1,4 +1,4 @@
-# parrotsec.org website
+# Sitio web de ParrotSec en español
 
-This repository contains the source code of the new version of our website.
-Feel free to make your contribution
+Este repositorio contiene el código fuente de la nueva versión de nuestro sitio web.
+Siéntete libre de hacer tu contribucin.
