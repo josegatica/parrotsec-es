@@ -8,7 +8,7 @@ echo
               <h3 class="text-center wow fadeInDown">',$lang['index-1'],'</h2>
               <h5 class="text-center wow fadeInUp">',$lang['index-2'],'</h3>
                 <hr>
-                <a href="',CONFIG_SITE_URL_STATIC_RESOURCES,'download.fx" class="btn btn-primary btn-xl">',$lang['index-3'],'</a> &nbsp; <a href="#one" class="btn btn-primary btn-xl page-scroll">',$lang['index-4'],'</a>
+                <a href="',CONFIG_SITE_URL_STATIC_RESOURCES,'download.php" class="btn btn-primary btn-xl">',$lang['index-3'],'</a> &nbsp; <a href="#one" class="btn btn-primary btn-xl page-scroll">',$lang['index-4'],'</a>
             </div>
         </div>
     </header>
