@@ -46,7 +46,7 @@ echo
           <div class="navbar-collapse collapse" id="bs-navbar">
               <ul class="nav navbar-nav">
                   <li>
-                      <a class="page-scroll" href="download.fx">',$lang['nav-3'],'</a>
+                      <a class="page-scroll" href="download.php">',$lang['nav-3'],'</a>
                   </li>
                   <li>
                       <a class="page-scroll" href="https://blog.parrotsec.org">',$lang['nav-4'],'</a>
