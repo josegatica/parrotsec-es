@@ -117,7 +117,7 @@ $lang['download-54']		= ' (herramientas de clonación incluídas)';
 $lang['download-55']		= ' (entorno completo)';
 
 
-$lang['download-full-1']	= 'Parrot Security ';
+$lang['download-full-1']	= 'Parrot Security 4.0.1 ';
 $lang['download-full-2']	= 'Parrot Security es nuestro completo entorno todo-en-uno para pruebas de penetración, privacidad, forenses digitales, ingeniería inversa y desarrollo de software.';
 $lang['download-full-3']	= 'El sistema incluye un completo arsenal de herramientas orientadas a la seguridad para cubrir variadas categorías dle trabajo de un <b>pentester</b>.';
 $lang['download-full-4']	= 'Security Edition';
@@ -131,7 +131,7 @@ $lang['download-full-11']	= 'Signed Hashes';
 $lang['download-full-12']	= ' Para computadores antiguos';
 
 
-$lang['download-lite-1']	= 'Parrot Home ';
+$lang['download-lite-1']	= 'Parrot Home 4.0.1';
 $lang['download-lite-2']	= 'Parrot Home es una edición especial de Parrot diseñada para el uso diario, y está dirigido a usuarios regulares que necesiten un sistema liviano, siempre actualizado y agradable a la vista en sus computadores o estaciones de trabajo.';
 $lang['download-lite-3']	= 'Ésta distribución tiene la misma apariencia de un entorno regular de Parrot e incluye todos los programas básicos para el trabajo diario. Parrot Lite también incluye para chatear de manera privada (realmente privada) con tus contactos, encriptar documentos con los más altos estándares criptográficos o navegar la web de una manera completamente anónima y segura.';
 $lang['download-lite-4']	= 'El sistema también puede ser usado como punto de inicio para construir una plataforma más personalizada de pentesting sólo con las herramientas que necesites, o lo puedes usar para construir tu estación de trabajo profesional aprovechando todas las últimas y más poderosas tecnologías de Debian sin problemas.';
