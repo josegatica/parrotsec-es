@@ -5,7 +5,7 @@ echo  '<section class="bg-primary" id="one">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 text-center">
-                    <h2 class="margin-top-0 text-primary  wow fadeInDown">',$lang['download-full-1'],CONFIG_SYSTEM_VERSION,'</h2>
+                    <h2 class="margin-top-0 text-primary  wow fadeInDown">',$lang['download-full-1'],'</h2>
                     <br>
                     <p class="text-faded  wow fadeInRight">
                       ',$lang['download-full-2'],'
