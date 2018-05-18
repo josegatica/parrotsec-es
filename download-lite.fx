@@ -39,13 +39,13 @@ echo  '<section class="bg-primary" id="one">
                   <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-lite-9'],PARROT_LITE_SIZE_64,'</li>
     						</ul>
     						<div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.10.1/Parrot-home-3.10.1_amd64.iso">',$lang['index-3'],'</a>
+    							<a class="btn btn-lg btn-block btn-info" href="http://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-home-4.0.1_amd64.iso">',$lang['index-3'],'</a>
     						</div>
                 <div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.10.1/Parrot-home-3.10.1_amd64.iso.mirrorlist">',$lang['download-lite-10'],'</a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.10.1/Parrot-home-3.10.1_amd64.iso.torrent">',$lang['download-lite-11'],'</a>
+    							<a class="btn btn-lg btn-block btn-info" href="http://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-home-4.0.1_amd64.iso.torrent">',$lang['download-lite-11'],'</a>
     						</div>
                 <div class="panel-footer">
                   <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.10.1/signed-hashes.txt">',$lang['download-lite-12'],'</a>
@@ -68,16 +68,16 @@ echo  '<section class="bg-primary" id="one">
                   <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-lite-9'],PARROT_LITE_SIZE_32,'</li>
     						</ul>
     						<div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.10.1/Parrot-home-3.10.1_i386.iso">',$lang['index-3'],'</a>
+    							<a class="btn btn-lg btn-block btn-info" href="http://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-home-4.0.1_i386.iso">',$lang['index-3'],'</a>
     						</div>
                 <div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.10.1/Parrot-home-3.10.1_i386.iso.mirrorlist">',$lang['download-lite-10'],'</a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.10.1/Parrot-home-3.10.1_i386.iso.torrent">',$lang['download-lite-11'],'</a>
+    							<a class="btn btn-lg btn-block btn-info" href="http://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-home-4.0.1_i386.iso.torrent">',$lang['download-lite-11'],'</a>
     						</div>
                 <div class="panel-footer">
-                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.10.1/signed-hashes.txt">',$lang['download-lite-12'],'</a>
+                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="http://cdimage.parrotsec.org/parrot/iso/4.0.1/signed-hashes.txt">',$lang['download-lite-12'],'</a>
     						</div>
     					</div>
             </div>
