@@ -119,7 +119,7 @@ $lang['download-55']		= ' (entorno completo)';
 
 $lang['download-full-1']	= 'Parrot Security 4.0.1 ';
 $lang['download-full-2']	= 'Parrot Security es nuestro completo entorno todo-en-uno para pruebas de penetración, privacidad, forenses digitales, ingeniería inversa y desarrollo de software.';
-$lang['download-full-3']	= 'El sistema incluye un completo arsenal de herramientas orientadas a la seguridad para cubrir variadas categorías dle trabajo de un <b>pentester</b>.';
+$lang['download-full-3']	= 'El sistema incluye un completo arsenal de herramientas orientadas a la seguridad para cubrir variadas categorías del trabajo de un <b>pentester</b>.';
 $lang['download-full-4']	= 'Security Edition';
 $lang['download-full-5']	= ' Para computadores modernos';
 $lang['download-full-6']	= 'Interfaz: MATE';
