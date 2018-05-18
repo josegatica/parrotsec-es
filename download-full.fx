@@ -45,7 +45,7 @@ echo  '<section class="bg-primary" id="one">
     							<a class="btn btn-lg btn-block btn-info" href="http://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-security-4.0.1_amd64.iso.torrent">',$lang['download-full-10'],'</a>
     						</div>
                 <div class="panel-footer">
-                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.11/signed-hashes.txt">',$lang['download-full-11'],'</a>
+                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="http://cdimage.parrotsec.org/parrot/iso/4.0.1/signed-hashes.txt">',$lang['download-full-11'],'</a>
     						</div>
     					</div>
             </div>
@@ -65,16 +65,16 @@ echo  '<section class="bg-primary" id="one">
                   <li class="list-group-item"><i class="icon-ok text-info"></i>',$lang['download-full-8'],PARROT_FULL_SIZE_32,'</li>
     						</ul>
     						<div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.11/Parrot-security-3.11_i386.iso">',$lang['index-3'],'</a>
+    							<a class="btn btn-lg btn-block btn-info" href="http://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-security-4.0.1_i386.iso">',$lang['index-3'],'</a>
     						</div>
                 <div class="panel-footer">
     							<a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.11/Parrot-security-3.11_i386.iso.mirrorlist">',$lang['download-full-9'],'</a>
     						</div>
                 <div class="panel-footer">
-    							<a class="btn btn-lg btn-block btn-info" href="https://cdimage.parrotsec.org/parrot/iso/3.11/Parrot-security-3.11_i386.iso.torrent">',$lang['download-full-10'],'</a>
+    							<a class="btn btn-lg btn-block btn-info" href="http://cdimage.parrotsec.org/parrot/iso/4.0.1/Parrot-security-4.0.1_i386.iso.torrent">',$lang['download-full-10'],'</a>
     						</div>
                 <div class="panel-footer">
-                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="https://cdimage.parrotsec.org/parrot/iso/3.11/signed-hashes.txt">',$lang['download-full-11'],'</a>
+                  <a class="btn btn-lg btn-block btn-info" target="_blank" href="http://cdimage.parrotsec.org/parrot/iso/4.0.1/signed-hashes.txt">',$lang['download-full-11'],'</a>
     						</div>
     					</div>
             </div>
