@@ -49,13 +49,13 @@
                       <a class="page-scroll" href="https://blog.parrotsec.org"><?php echo $lang['nav-4']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org"><?php echo $lang['nav-5']; ?></a>
+                      <a class="page-scroll" href="https://parrotsec.org/docs/"><?php echo $lang['nav-5']; ?></a>
                   </li>
                   <li>
                       <a class="page-scroll" href="https://dev.parrotsec.org" target="_blank"><?php echo $lang['nav-6']; ?></a>
                   </li>
                   <li>
-                      <a class="page-scroll" href="https://docs.parrotsec.org/community"><?php echo $lang['nav-7']; ?></a>
+                      <a class="page-scroll" href="https://community.parrotsec.org"><?php echo $lang['nav-7']; ?></a>
                   </li>
                   <li>
                       <a class="page-scroll" href="https://docs.parrotsec.org/partners"><?php echo $lang['nav-8']; ?></a>
@@ -71,21 +71,47 @@
                   </li>
               </ul>
               <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-globe"></i>&nbsp;<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <a href="?lang=en"><span class="flag-icon flag-icon-gb"></span>&nbsp;&nbsp;EN - English</a>
+                    </li>
+                    <li>
+                      <a href="?lang=it"><span class="flag-icon flag-icon-it"></span>&nbsp;&nbsp;IT - Italiano</a>
+                    </li>
+                    <li>
+                      <a href="?lang=uz"><span class="flag-icon flag-icon-ro"></span>&nbsp;&nbsp;UZ - Ozbekcha</a>
+                    </li>
+                    <li>
+                      <a href="?lang=ru"><span class="flag-icon flag-icon-ru"></span>&nbsp;&nbsp;RU - Русский</a>
+                    </li>
+                    <li>
+                      <a href="?lang=de"><span class="flag-icon flag-icon-de"></span>&nbsp;&nbsp;DE - Deutsch</a>
+                    </li>
+                    <li>
+                      <a href="?lang=fr"><span class="flag-icon flag-icon-fr"></span>&nbsp;&nbsp;FR - Français</a>
+                    </li>
+                    <li>
+                      <a href="?lang=ar"><span class="flag-icon flag-icon-arab"></span>&nbsp;&nbsp;AR - العربية</a>
+                    </li>
+                  </ul>
+                </li>
                   <li>
                       <a href="#" class="dropdown-toggle" type="button" id="languageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><?php echo $lang['nav-16']; ?><span class="caret"></span></a>
                       <ul class="dropdown-menu language-navbar" aria-labelledby="languageDropdown">
                           <?php
-                            for($i=0; $i<count($languages); $i++) {
-                                $link = 'http://' . $_SERVER[HTTP_HOST] . $_SERVER[REQUEST_URI];
+                            foreach($languages as $key => $value) {
+                                $link = 'https://' . 'parrotsec.org/' . $_SERVER['REQUEST_URI'];
                                 if(!strpos($link, "?lang="))
-                                    $final_link = $link.'?lang=' . $languages[$i];
+                                    $final_link = "$link?lang=$key";
                                 else {
                                     $language = $_GET['lang'];
                                     $search = "?lang=$language";
-                                    $replace = "?lang=$languages[$i]";
+                                    $replace = "?lang=$key";
                                     $final_link = str_replace($search, $replace, $link);
                                 }
-                                echo "<li><a href='$final_link'><img src='img/lang/$languages[$i].ico' class='langauge-select'/><span style='color: #fff'>$languages[$i]</span></a></li>";
+                                echo "<li><a href='$final_link' style='height: auto'><span style='color: #fff'>$value</span><img src='img/lang/$key.png' class='pull-right'/></a></li>";
                             }
                           ?>
                       </ul>
