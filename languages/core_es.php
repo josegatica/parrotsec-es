@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?PHP
 $lang = array();
 $lang['nav-1']='Cambiar Navegación';
@@ -360,4 +360,4 @@ $lang['download-other-31']		= 'Sopine';
 $lang['download-other-32']		= 'PineBook';
 
 ?>
->>>>>>> dev
+
