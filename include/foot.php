@@ -29,7 +29,7 @@
         </div>
         <br/>
         <div class="blue-triangular-division wow slideInDown"></div>
-          <p class="text-center">© Lorenzo Faletra 2013-2018 Algunos derechos reservados - José Gatica (spanish)</span> - <a target="_blank" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a></p>
+          <p class="text-center">© Lorenzo Faletra 2013-2020 Algunos derechos reservados - José Gatica (spanish)</span> - <a target="_blank" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPL v3</a></p>
           <p class="text-center">¡Con orgullo, desde varios países de habla hispana!</p>
         </div>
     </div>
